@@ -1,0 +1,15 @@
+{
+    "ID": "XXRedStoneBox-A",
+    "image": "redstone.jpg",
+    "categories": [
+        "stone",
+        "block"
+    ],
+    "name": "Red Stone",
+    "description": "Stone used to do stuff",
+    "orderCount": 10,
+    "inventory": 100,
+    "price": 1532,
+    "weight": 10,
+    "inCart": 1
+}

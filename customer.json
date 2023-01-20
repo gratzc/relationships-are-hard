@@ -1,0 +1,26 @@
+{
+    "ID": "ender@dragon.com",
+    "password": "F342354FFGJRGV45",
+    "addresses": [
+        {
+            "street": "123 Sesame St",
+            "city": "Anytown",
+            "cc": "USA",
+            "postal": 53520,
+            "type": "billing"
+        },
+        {
+            "street": "123 Avenue Q",
+            "city": "New York",
+            "cc": "USA",
+            "postal": 55555,
+            "type": "shipping"
+        }
+    ],
+    "name": "Ender Dragon",
+    "orders": [
+        100,
+        167,
+        188
+    ]
+}

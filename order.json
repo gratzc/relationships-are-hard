@@ -1,0 +1,47 @@
+{
+    "ID": 100167,
+    "customer": {
+        "ID": "ender@dragon.com",
+        "addresses": [
+            {
+                "street": "123 Sesame St",
+                "city": "Anytown",
+                "cc": "USA",
+                "postal": 53520,
+                "type": "billing"
+            },
+            {
+                "street": "123 Avenue Q",
+                "city": "New York",
+                "cc": "USA",
+                "postal": 55555,
+                "type": "shipping"
+            }
+        ],
+        "name": "Ender Dragon"
+    },
+    "subTotal": 2000,
+    "tax": 100,
+    "shipping": 15.95,
+    "total": 2115.95,
+    "payment": {
+        "method": "visa",
+        "transactionID": "2F3d4"
+    },
+    "products": [
+        {
+            "sku": "XXRedStoneBox-A",
+            "name": "Red Stone",
+            "quantity": 1,
+            "price": 1000,
+            "weight": 10
+        },
+        {
+            "sku": "XXRedStoneBox-B",
+            "name": "Red Stone",
+            "quantity": 1,
+            "price": 1000,
+            "weight": 10
+        }
+    ]
+}
